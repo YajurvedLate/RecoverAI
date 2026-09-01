@@ -29,3 +29,6 @@ dist/
 
 # Local logs
 *.log
+
+# Local SQLite database
+*.db
